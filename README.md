@@ -2,7 +2,7 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Maulidani Mahmud. I'm from Indonesia, living in Makassar and currently studying at the State Islamic University of Alauddin Makassar majoring in Information Systems. I'm focusing on learning Android app programming.
+My name is Maulidani Mahmud. I'm from Indonesia, living in Makassar and currently studying at the State Islamic University of Alauddin Makassar majoring in Information Systems. I'm focusing on mobile app programming.
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Maulidani/Maulidani">
